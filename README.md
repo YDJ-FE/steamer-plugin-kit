@@ -1,5 +1,7 @@
-# steamer-plugin-kit
+# steamer-plugin-ykit
 
+## 暂时停止维护，请前往上游仓库查看最新更新[https://github.com/steamerjs/steamer-plugin-kit](https://github.com/steamerjs/steamer-plugin-kit)
+<!-- 
 starter kit 管理命令
 
 [![NPM Version](https://img.shields.io/npm/v/steamer-plugin-kit.svg?style=flat)](https://www.npmjs.com/package/steamer-plugin-kit)
@@ -207,4 +209,4 @@ steamer develop -k [kit name]
 * react 组件开发 starter kit: [steamer-react-component](https://github.com/steamerjs/steamer-react-component/)
 * vue 组件开发 starter kit: [steamer-vue-component](https://github.com/steamerjs/steamer-vue-component/)
 * 无框架 组件开发 starter kit: [steamer-simple-component](https://github.com/steamerjs/steamer-simple-component/)
-* 小工具开发 starter kit: [steamer-logic-component](https://github.com/steamerjs/steamer-logic-component)
+* 小工具开发 starter kit: [steamer-logic-component](https://github.com/steamerjs/steamer-logic-component) -->
